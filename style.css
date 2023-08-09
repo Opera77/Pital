@@ -13,6 +13,7 @@ body {
     url("doc.png");
   /*background-color: black;*/
   background-size: cover;
+ background-repeat: none;
   background-position: center;
   margin: 0;
   padding: 0;
