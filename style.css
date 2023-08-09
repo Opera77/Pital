@@ -116,6 +116,7 @@ header {
  body{
 background-size:100%;
 background-repeat:none;
+background-size: cover;
 
  }
 
