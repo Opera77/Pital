@@ -121,6 +121,7 @@ footer {
   color: #fff;
   padding: 0.5%;
   align-items: center;
+  background-size: cover;
 }
 
 .copy{
