@@ -113,6 +113,11 @@ header {
   .menu li {
     float: none;
   }
+ body{
+background-size:100%;
+background-repeat:none;
+
+ }
 
   .menu-icon {
     cursor: pointer;
